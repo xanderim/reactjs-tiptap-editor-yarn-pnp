@@ -6,7 +6,7 @@ First, run the development server:
 
 ```bash
 corepack enable
-
+yarn install
 yarn dev
 ```
 
